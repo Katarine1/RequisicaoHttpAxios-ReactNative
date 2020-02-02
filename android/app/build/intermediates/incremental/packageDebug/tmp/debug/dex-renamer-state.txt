@@ -1,0 +1,4 @@
+#Sat Feb 01 19:37:54 BRT 2020
+base.0=C\:\\Users\\kba-azul\\Documents\\ProjetosReactNative\\produtos\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
